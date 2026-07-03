@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/sklearn-latest-orange.svg)
-![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)
+![Kaggle](https://www.kaggle.com/code/eyaminal/imdb-sentiment-analysis)
 
 An end-to-end Machine Learning pipeline developed to classify binary sentiment (Positive/Negative) on the scale of the **IMDB 50K Movie Reviews Dataset**. This repository documents the comparative bench-marking of three foundational Naive Bayes architectural variants (`MultinomialNB`, `BernoulliNB`, and `GaussianNB`), highlighting feature engineering trade-offs and structural mathematical constraints in text classification.
 
